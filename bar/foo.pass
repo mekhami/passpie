@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'foo@bar'
+login: !!python/unicode 'foo'
+modified: 2016-03-30 12:00:09.760864
+name: !!python/unicode 'bar'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v1
+
+
+  hQEMA8YGCLRFQFQDAQgAtrtOzh02tRUBPG/5rkevWsjWVgg9W9amGePuWjgcJo4r
+
+  Nsj9iSuV6Xb0751TJ4S0FQC4MKC8yR0UQRXfC/FlsfgbXxFRzteZ+zwUTRufiVrd
+
+  LD3nqB9IQuU8UQBnUahhCvABIL8L6fCth7HOsY2/i8SPaS9RoH6EsFFXizYG4jPX
+
+  Oi1uz5eQyTa4o3bylUflV5AuENkBEjizPw5uHb4c+I7lGlVf1Ub4RQmmcgxFiBLi
+
+  GHnKIV/eJ2bBIV73E2bZcgPC9Fa3hOxh2taysSnu8UmgpmUublCI1O1ITDOCJkXR
+
+  mZya1FqlPg+fUp9A6MXnmkpnzgZJTMeVy7SNzJ1dItJBAaq6H0yrgDHh1EgVQkOz
+
+  SwRTP4iEOMq+98Fzi+L5nrkan0n0Le6gJJ440WiyTNem7xkTJ33Ov/pLUpnBVX52
+
+  dJ0=
+
+  =kSMy
+
+  -----END PGP MESSAGE-----
+
+  '
